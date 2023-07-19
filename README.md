@@ -9,7 +9,7 @@ I redesigned the website for the Maine Historical Society in order to present a 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
 * [General Info](#general-info)
-* [User Research](#userr-research)
+* [User Research](#user-research)
 * [Design Iterations](#design-iterations)
 * [Conclusion](#conclusion)
 * [Project Status](#project-status)
