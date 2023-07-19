@@ -2,6 +2,7 @@
 
 I redesigned the website for the Maine Historical Society in order to present a cleaner, more concise and accessible alternative.
 
+*The redesign is live [here](https://johnnyboustany.github.io/Responsive-Redesign/).*
 <p align="center">
     <img src="./assets/redesign.png" alt="" width="1000">
 </p>
