@@ -56,6 +56,8 @@ I decided to reduce the number of links and information displayed on the front-p
 
 Based on the low-fi designs, I created the high-fidelity prototypes on Figma, one for each device type. The original website was redesigned using these figma prototypes. The figma prototype for mobile screens is shown below.
 
+<iframe class="pdf" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FMiOkx6UgV0Ac2NjPN403jw%2FRedesign%3Fpage-id%3D205%253A274%26node-id%3D205%253A380%26viewport%3D435%252C-120%252C0.25%26scaling%3Dscale-down" allowfullscreen></iframe>
+
 I used the style guide and design I developed in Figma to develop the website using JavaScript.
 
 ## Conclusion
