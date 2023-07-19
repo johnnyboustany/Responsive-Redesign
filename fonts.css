@@ -15,7 +15,6 @@
   font-family: "Metropolis-RegularItalic";
   src: url(fonts/metropolis.regular-italic.otf) format('opentype');
 }
-
 @font-face {
   font-family: "Metropolis-LightItalic";
   src: url(fonts/metropolis.light-italic.otf) format('opentype');
